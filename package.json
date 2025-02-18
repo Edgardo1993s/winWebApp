@@ -1,0 +1,19 @@
+{
+  "name": "winwebapp",
+  "version": "1.0.0",
+  "description": "Libreria JS para crear ventanas",
+  "main": "winWebApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgardo1993s/winWebApp.git"
+  },
+  "author": "Ing. Selvin Guardado",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Edgardo1993s/winWebApp/issues"
+  },
+  "homepage": "https://github.com/Edgardo1993s/winWebApp#readme"
+}
