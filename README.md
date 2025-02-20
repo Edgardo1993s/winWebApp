@@ -10,22 +10,22 @@ Pasos para el uso de la libreria
     <div class="winWebApp resizeWin" id="miVentana">
         
     </div>
-4. Agrega un titulo a la ventana de la siguiente manera.
+5. Agrega un titulo a la ventana de la siguiente manera.
     <idv class="winWebApp" id="miVentana">
        <h3 class="titleWin">Mi Ventana</h3>
     </div>
-5. Agrega dos botones con sus respectivas clases que serviran para minizar o eliminar la ventana.
+6. Agrega dos botones con sus respectivas clases que serviran para minizar o eliminar la ventana.
     <idv class="winWebApp" id="miVentana">
         <h3 class="titleWin">Estudiantes</h3>
         <button class="controlWinClose">X</button><button class="controlWinMinimize">-</button>
     </div>
-6. Agrega una etiqueta hr como separador del titulo y los botones del cuerpo de la ventana.
+7. Agrega una etiqueta hr como separador del titulo y los botones del cuerpo de la ventana.
     <idv class="winWebApp" id="miVentana">
         <h3 class="titleWin">Estudiantes</h3>
         <button class="controlWinClose">X</button><button class="controlWinMinimize">-</button>
         <hr class="controlHrWin">
     </div>
-7. Agrega el cuerpo de la ventana de la siguiente manera.
+8. Agrega el cuerpo de la ventana de la siguiente manera.
      <idv class="winWebApp" id="miVentana">
           <h3 class="titleWin">Estudiantes</h3>
           <button class="controlWinClose">X</button><button class="controlWinMinimize">-</button>
@@ -34,9 +34,9 @@ Pasos para el uso de la libreria
 
           </div>
       </div>
-8. Esta seria la estructura principal de la ventana, lo siguiente es agregar un boton para activar la ventana.
+9. Esta seria la estructura principal de la ventana, lo siguiente es agregar un boton para activar la ventana.
    Este boton puede ser cualquier elemento que se le pueda agregar un evento click, tambien puede estar ubicado en cualquier parte del documento.
     <button class="activeWin" data-toggle="estudiante">Activar Ventana</button>
    Ten en cuenta que en la propiedad data-toggle tiene que tener el id de la ventana que deseas que se active al hacer click en este elemento.
-9. Puedes decidir si el usuario puede modificar el tamaño de la ventana, simplemente quita la clase "resizeWin" de div que usas como ventana
+10. Puedes decidir si el usuario puede modificar el tamaño de la ventana, simplemente quita la clase "resizeWin" de div que usas como ventana
 
