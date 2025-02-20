@@ -38,4 +38,4 @@ Pasos para el uso de la libreria
    Este boton puede ser cualquier elemento que se le pueda agregar un evento click, tambien puede estar ubicado en cualquier parte del documento.
     <button class="activeWin" data-toggle="estudiante">Activar Ventana</button>
    Ten en cuenta que en la propiedad data-toggle tiene que tener el id de la ventana que deseas que se active al hacer click en este elemento.
-10. Puedes decidir si el usuario puede modificar el tamaño de la ventana, simplemente quita la clase "resizeWin" de div que usas como ventana
+10. Puedes decidir si el usuario puede modificar el tamaño de la ventana, simplemente quita la clase "resizeWin" del div que usas como ventana
