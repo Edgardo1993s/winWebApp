@@ -1,1 +1,1 @@
-Libreria JS para crear ventanas arrastrables y poder cambiarlas de tamaño.
+Libreria JS para crear ventanas flotantes
