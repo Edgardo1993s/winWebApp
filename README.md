@@ -7,7 +7,8 @@ Pasos para el uso de la libreria
 1. Todos los div que se usen como una ventana tienen que ser hijos directamente de la etiqueta body.
 2. A estos div tienes que asignarles la clase "winWebApp".
 3. Agrega un id a la ventana
-    <div class="winWebApp resizeWin" id="miVentana"> 
+    <div class="winWebApp resizeWin" id="miVentana">
+        
     </div>
 4. Agrega un titulo a la ventana de la siguiente manera.
     <idv class="winWebApp" id="miVentana">
